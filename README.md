@@ -1,12 +1,13 @@
 <img src="/assets/pexels-ayla-fazioli-5130121.jpeg" height="250">
 Photo by Ayla Fazioli from Pexels
+
 # __Fireworks Data Exploration__
 
-### _Data exploration of firework injury and sales reports in the US_
+#### _Data exploration of firework injury and sales reports in the US_
 
 <br>
 
-## __Project Goals__
+### __Project Goals__
 
 Provide an overview of incidents that involve fireworks.
    - Frequency by Date
