@@ -1,8 +1,8 @@
 <img src="/assets/pexels-ayla-fazioli-5130121.jpeg" height="250">
-Photo by Ayla Fazioli from Pexels
+
+_Photo by Ayla Fazioli from Pexels_
 
 # __Fireworks Data Exploration__
-
 #### _Data exploration of firework injury and sales reports in the US_
 
 <br>
