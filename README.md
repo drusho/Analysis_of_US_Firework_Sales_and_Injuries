@@ -22,14 +22,15 @@ Provide sales figures for fireworks across the US.
 
 ### __About the Data__
 
-Source (Injury Data): [Firework Injury Reports](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)
+__1. Source (Injury Data): [Firework Injury Reports](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)__
 
-* Consisted multiple excel incident reports involving fireforks over the past 5 years.
+Consisted multiple excel incident reports involving fireworks over the past 5 years taken from the U.S. Consumer Product Safety Commission (CPSC).
 
+NEISS injury data are gathered from the emergency departments (ED) of 96 hospitals selected as a probability sample of all U.S. hospitals with 24-hour EDs and at least 6 inpatient beds. Each participating NEISS hospital is hand-selected by CPSC because it provides an important representation of all other hospitals of its size and unique characteristics in the U.S.
 
-Source (Sales Data): [USA Trade Census](https://usatrade.census.gov/)
+__2. Source (Sales Data): [USA Trade Census](https://usatrade.census.gov/)__
 
-* Sales and Trade data each state regarding fireworks.  Reports data range from 2016 to April 2021.
+Sales and Trade data each state regarding fireworks.  Reports data range from 2016 to April 2021.
 
 
 <br>
