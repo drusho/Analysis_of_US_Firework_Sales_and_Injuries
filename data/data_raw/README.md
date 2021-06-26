@@ -4,7 +4,11 @@
 
 
 ## Firework Injury Data
+---
 
+<br>
+
+### NEISS injury data
 U.S. Consumer Product Safety Commission (CPSC) data on unintentional consumer product-related injuries and deaths occurring in the U.S.
 
 
@@ -28,12 +32,32 @@ NEISS injury data are gathered from the emergency departments (ED) of 96 hospita
 
 <br>
 
-## Firework Sales Data
+### Helper Dataframes (samples)
+---
+Data frames created from the __NEISS Coding Manual__ to assist with identifing descriptions for coding numbers found in __NEISS_year.csv__ files.
 
+>df_body_part.csv
+
+
+>df_diagnosis.csv
+
+>df_disposition.csv
+
+>df_incident_local.csv
+
+>df_race.csv
+
+<br>
+
+
+
+
+## Firework Sales Data
+---
 ### Firework Sales Data (State)
 >State Imports by HS Commodities.csv
 
 <br>
 
 ### Firework Sales Data (Country)
->World Imports by HS Commodities (1).csv
+>World Imports by HS Commodities.csv
