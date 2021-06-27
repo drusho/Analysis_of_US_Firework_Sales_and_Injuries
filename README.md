@@ -24,7 +24,7 @@ Provide sales figures for fireworks across the US.
 ---
 <br>
 
-<img src="/reports/figures/Incident Counts by Age_Bar.png" height="600">
+<img src="/reports/figures/Incident Counts by Age_Bar.png" height="400">
 
 <br>
 
