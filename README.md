@@ -24,6 +24,10 @@ Provide sales figures for fireworks across the US.
 ---
 <br>
 
+<img src="/reports/figures/Total State Firework Sales ($USD) 2016-2020 (map).png" height="400">
+
+<br>
+
 <img src="/reports/figures/Incident Counts by Age_Bar.png" height="400">
 
 <br>
