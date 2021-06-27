@@ -24,17 +24,18 @@ Provide sales figures for fireworks across the US.
 ---
 <br>
 
-<img src="/reports/figures/Incident Counts by Age_Bar.png" height="400">
+<img src="/reports/figures/Incident Counts by Age_Bar.png" height="600">
 
 <br>
 
-<img src="/reports/figures/Incident Counts by Body Part.png" height="400">
+<img src="/reports/figures/Incident Counts by Body Part.png" height="600">
 
 <br>
 
-<img src="/reports/figures/Incident Counts by Age_Swarm.png" height="400">
+<img src="/reports/figures/Incident Counts by Age_Swarm.png" height="600">
 
 <br>
+
 ### __About the Data__
 ---
 __1. Source (Injury Data): [Firework Injury Reports](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)__
