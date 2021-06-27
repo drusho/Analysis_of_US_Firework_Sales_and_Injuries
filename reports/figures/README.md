@@ -11,8 +11,7 @@
 <br>
 
 >Total State Firework Sales ($USD) 2016-2020 (map).png
-<img src="/reports/figures/Total State Firework Sales
-($USD) 2016-2020 (map).png" height="400">
+<img src="/reports/figures/Total State Firework Sales ($USD) 2016-2020 (map).png" height="400">
 
 <br>
 
