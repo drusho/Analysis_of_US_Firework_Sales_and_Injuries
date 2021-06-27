@@ -41,3 +41,8 @@
 
 >Incident Counts by Year.png
 <img src="/reports/figures/Incident Counts by Year.png" height="300">
+
+
+>Drug_and_Alcohol_Counts.png
+<img src="/reports/figures/DA_Counts.png" height="300">
+
