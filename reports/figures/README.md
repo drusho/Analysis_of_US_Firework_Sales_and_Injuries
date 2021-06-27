@@ -44,5 +44,5 @@
 
 
 >Drug_and_Alcohol_Counts.png
-<img src="/reports/figures/DA_Counts.png" height="300">
+<img src="/reports/figures/Drug_and_Alcohol_Counts.png" height="300">
 
