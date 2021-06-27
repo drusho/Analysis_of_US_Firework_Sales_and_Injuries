@@ -5,8 +5,8 @@
 
 <br>
 
->Firework Sales ($USD) (scatter_plot)(8).png
-<img src="/reports/figures/Firework Sales ($USD) (scatter_plot)(8).png" height="400">
+>Firework Sales ($USD) (scatter_plot).png
+<img src="/reports/figures/Firework Sales ($USD) (scatter_plot).png" height="400">
 
 <br>
 
