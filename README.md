@@ -1,4 +1,4 @@
-<img src="/assets/pexels-ayla-fazioli-5130121.jpeg" height="500">
+<img src="/assets/pexels-ayla-fazioli-5130121.jpeg" height="400">
 
 _Photo by Ayla Fazioli from Pexels_
 
