@@ -28,11 +28,11 @@ Provide sales figures for fireworks across the US.
 
 <br>
 
-<img src="/reports/figures/Incident Counts by Body Part.png" height="600">
+<img src="/reports/figures/Incident Counts by Body Part.png" height="500">
 
 <br>
 
-<img src="/reports/figures/Incident Counts by Age_Swarm.png" height="600">
+<img src="/reports/figures/Incident Counts by Age_Swarm.png" height="500">
 
 <br>
 
