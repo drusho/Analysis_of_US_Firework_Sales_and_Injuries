@@ -13,6 +13,15 @@
 <br>
 
 <details>
+<summary>Total State Firework Sales (Scatter Plot)_v2</summary>
+<img src="/reports/figures/Firework Sales ($USD) (scatter_plot) - Ver2.png.png">
+
+</details>
+
+
+<br>
+
+<details>
 <summary>Total State Firework Sales (Heat Map)</summary>
 <img src="/reports/figures/Total State Firework Sales ($USD) 2016-2020 (map).png">
 </details>
