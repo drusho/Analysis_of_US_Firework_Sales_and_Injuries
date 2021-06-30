@@ -12,12 +12,12 @@ _Photo by Ayla Fazioli from Pexels_
 
 <br>
 
-Provide an overview of incidents that involve fireworks.
+__1. Provide an overview of incidents that involve fireworks.__
    - Frequency by Date
    - Age Group(s) most affected
    - Frequency of Injury Type(s)
 
-Provide sales figures for fireworks across the US.
+__2.Provide sales figures for fireworks across the US.__
   - State sales totals by year
   - World Sales of Fireworks (Top 10)
 
@@ -48,6 +48,8 @@ Provide sales figures for fireworks across the US.
 
 <details>
 <summary>Data Info</summary>
+
+<br>
 
 __1. Source (Injury Data): [Firework Injury Reports](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)__
 
