@@ -20,14 +20,10 @@ Provide sales figures for fireworks across the US.
 
 </details>
 
-<br>
-
 #### __Figure Previews__
 
 <details>
 <summary>Image Previews</summary>
-
-<br>
 
 <img src="/reports/figures/Total State Firework Sales ($USD) 2016-2020 (map).png" height="400">
 
@@ -45,12 +41,11 @@ Provide sales figures for fireworks across the US.
 
 </details>
 
-<br>
-
 #### __About the Data__
 
 <details>
 <summary>Data Info</summary>
+
 __1. Source (Injury Data): [Firework Injury Reports](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)__
 
 Consisted multiple excel incident reports involving fireworks over the past 5 years taken from the U.S. Consumer Product Safety Commission (CPSC).
@@ -63,11 +58,10 @@ Sales and Trade data each state regarding fireworks.  Reports data range from 20
 
 </details>
 
-<br>
-
 #### __Resources__
 <details>
 <summary>Resources</summary>
+
 - [CPSC (Consumer Product Safety Commission)](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3dUserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)
 - [USA Trade Census](https://usatrade.census.gov/)
 - [APA (American Pyrotechnics Assocation)](https://www.americanpyro.com/industry-facts-figures)
