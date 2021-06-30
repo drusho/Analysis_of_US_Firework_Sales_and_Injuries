@@ -1,14 +1,14 @@
-<img src="/assets/pexels-ayla-fazioli-5130121.jpeg" height="400">
+<img src="/assets/pexels-ayla-fazioli-5130121_wide.jpeg" height="400">
 
 _Photo by Ayla Fazioli from Pexels_
 
-# __Fireworks Data Exploration__
+## __Fireworks Data Exploration__
 #### _Data exploration of firework injury and sales reports in the US_
+---
 
-<br>
-
-### __Project Goals__
-
+#### __Project Goals__
+<details>
+<summary>Goals</summary>
 Provide an overview of incidents that involve fireworks.
    - Frequency by Date
    - Age Group(s) most affected
@@ -18,10 +18,15 @@ Provide sales figures for fireworks across the US.
   - State sales totals by year
   - World Sales of Fireworks (Top 10)
 
+</details>
+
 <br>
 
-### __Figure Previews__
----
+#### __Figure Previews__
+
+<details>
+<summary>Image Previews</summary>
+
 <br>
 
 <img src="/reports/figures/Total State Firework Sales ($USD) 2016-2020 (map).png" height="400">
@@ -38,10 +43,14 @@ Provide sales figures for fireworks across the US.
 
 <img src="/reports/figures/Incident Counts by Age_Swarm.png" height="500">
 
+</details>
+
 <br>
 
-### __About the Data__
----
+#### __About the Data__
+
+<details>
+<summary>Data Info</summary>
 __1. Source (Injury Data): [Firework Injury Reports](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)__
 
 Consisted multiple excel incident reports involving fireworks over the past 5 years taken from the U.S. Consumer Product Safety Commission (CPSC).
@@ -52,11 +61,15 @@ __2. Source (Sales Data): [USA Trade Census](https://usatrade.census.gov/)__
 
 Sales and Trade data each state regarding fireworks.  Reports data range from 2016 to April 2021.
 
+</details>
 
 <br>
 
-### __Resources__
+#### __Resources__
+<details>
+<summary>Resources</summary>
 - [CPSC (Consumer Product Safety Commission)](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3dUserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)
 - [USA Trade Census](https://usatrade.census.gov/)
 - [APA (American Pyrotechnics Assocation)](https://www.americanpyro.com/industry-facts-figures)
 - [Value Penguin: _Fourth of July: Who Uses the Most Fireworks in the US?_ - Sterling Price ](https://www.valuepenguin.com/who-uses-most-fireworks-united-states)
+</details>
