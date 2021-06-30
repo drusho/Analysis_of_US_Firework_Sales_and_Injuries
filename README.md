@@ -3,7 +3,7 @@
 _Photo by Ayla Fazioli from Pexels_
 
 ## __Fireworks Data Exploration__
-#### _Data exploration of firework injury and sales reports in the US_
+#### _Data Exploration of US Firework Injury and Sales Reports (2015-2021)_
 ---
 
 #### __Project Goals__
