@@ -17,7 +17,7 @@ __1. Provide an overview of incidents that involve fireworks.__
    - Age Group(s) most affected
    - Frequency of Injury Type(s)
 
-__2.Provide sales figures for fireworks across the US.__
+__2. Provide sales figures for fireworks across the US.__
   - State sales totals by year
   - World Sales of Fireworks (Top 10)
 
