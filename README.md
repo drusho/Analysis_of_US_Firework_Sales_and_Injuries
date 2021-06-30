@@ -1,4 +1,4 @@
-<img src="/assets/pexels-ayla-fazioli-5130121_wide.jpeg" height="400">
+<img src="/assets/pexels-ayla-fazioli-5130121_wide.png">
 
 _Photo by Ayla Fazioli from Pexels_
 
@@ -9,6 +9,9 @@ _Photo by Ayla Fazioli from Pexels_
 #### __Project Goals__
 <details>
 <summary>Goals</summary>
+
+<br>
+
 Provide an overview of incidents that involve fireworks.
    - Frequency by Date
    - Age Group(s) most affected
@@ -61,6 +64,8 @@ Sales and Trade data each state regarding fireworks.  Reports data range from 20
 #### __Resources__
 <details>
 <summary>Resources</summary>
+
+<br>
 
 - [CPSC (Consumer Product Safety Commission)](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3dUserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)
 - [USA Trade Census](https://usatrade.census.gov/)
