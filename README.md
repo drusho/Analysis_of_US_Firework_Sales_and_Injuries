@@ -1,9 +1,10 @@
 <img src="/assets/pexels-ayla-fazioli-5130121_wide.png">
 
-_Photo by Ayla Fazioli from Pexels_
+###### _Photo by Ayla Fazioli from Pexels_
 
 ## __Fireworks Data Exploration__
-#### _Data Exploration of US Firework Injury and Sales Reports (2015-2021)_
+##### _Data Exploration of US Firework Injury and Sales Reports (2015-2021)_
+###### [ __[Notebook Link]__ ](https://github.com/drusho/fireworks_data_exploration/blob/main/notebooks/firework_sales_and_injury_data_exploration.ipynb)
 ---
 
 #### __Project Goals__
