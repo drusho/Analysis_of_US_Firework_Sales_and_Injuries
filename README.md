@@ -29,6 +29,8 @@ __2. Provide sales figures for fireworks across the US.__
 <details>
 <summary>Image Previews</summary>
 
+[[Link to All Figures]](https://github.com/drusho/fireworks_data_exploration/tree/main/reports/figures)
+
 <img src="/reports/figures/Total State Firework Sales ($USD) 2016-2020 (map).png" height="400">
 
 <br>
