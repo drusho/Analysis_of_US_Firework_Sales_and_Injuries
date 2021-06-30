@@ -14,7 +14,7 @@
 
 <details>
 <summary>Total State Firework Sales (Scatter Plot)_v2</summary>
-<img src="/reports/figures/Firework Sales ($USD) (scatter_plot) - Ver2.png.png">
+<img src="/reports/figures/Firework Sales ($USD) (scatter_plot) - Ver2.png">
 
 </details>
 
