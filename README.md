@@ -3,7 +3,7 @@
 ###### _Photo by Ayla Fazioli from Pexels_
 
 ## __Data Exploration of US Firework Injury and Sales Reports (2016-2021)__
-###### [ __[Notebook Link]__ ](https://github.com/drusho/fireworks_data_exploration/blob/main/notebooks/firework_sales_and_injury_data_exploration.ipynb)
+###### [ __[Notebook Link]__ ](https://github.com/drusho/fireworks_data_exploration/blob/main/notebooks/Analysis_of_US_Firework_Sales_and_Injuries.ipynb)
 ---
 
 #### __Project Goals__
