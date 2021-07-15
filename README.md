@@ -20,6 +20,9 @@
    - [Blog Post](https://drusho.github.io/pandas/plotly/seaborn/2021/07/14/_07_03_firework_part_2_eda.html)
    - [Google Colab Notebook](https://colab.research.google.com/drive/1UksUenbmj76pvJPd42b9zzzTkZtMkRy6?usp=sharing)
 
+<br>
+
+3. [Tableau Dashboard for Fireworks Inuries (2016-2021)](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
 
 <br>
 <br>
