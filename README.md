@@ -1,13 +1,31 @@
-<img src="/assets/pexels-ayla-fazioli-5130121_wide.png">
+# __Exploratory Data Analysis of US Firework Injury and Sales Reports (2016-2021)__
+
+<img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/assets/pexels-ayla-fazioli-5130121_wide.png">
 
 ###### _Photo by Ayla Fazioli from Pexels_
 
-## __Exploratory Data Analysis of US Firework Injury and Sales Reports (2016-2021)__
-###### [ __[Notebook Link]__ ](https://github.com/drusho/fireworks_data_exploration/blob/main/notebooks/Analysis_of_US_Firework_Sales_and_Injuries.ipynb)
+<br>
+<br>
+
+
+## Links
 ---
+1. US Firework Sales and Injuries (Part 1) - Cleaning
+   - [Blog Post](https://drusho.github.io/pandas/data%20cleaning/2021/07/14/_06_25_firework_part_1_cleaning.html)
+   - [Google Colab Notebook](https://drive.google.com/file/d/1HoHdYjWWict5lh3yNDFu8dXNp4NVKpI_/view?usp=sharing)
 
-#### __Project Goals__
+<br>
 
+2. US Firework Sales and Injuries (Part 2) - Data Analysis
+   - [Blog Post](https://drusho.github.io/pandas/plotly/seaborn/2021/07/14/_07_03_firework_part_2_eda.html)
+   - [Google Colab Notebook](https://colab.research.google.com/drive/1UksUenbmj76pvJPd42b9zzzTkZtMkRy6?usp=sharing)
+
+
+<br>
+<br>
+
+## Project Goals
+---
 
 1. Provide an overview of incidents that involve fireworks.
    - Injury frequencies by date
@@ -18,36 +36,38 @@
    - State sales totals by year
    - World sales of fireworks (top 10)
 
-</details>
-
-#### __Figure Previews__
-
-<details>
-<summary>Images</summary>
-
-[[Link to All Figures]](https://github.com/drusho/fireworks_data_exploration/tree/main/reports/figures)
-
-<img src="/reports/figures/Total State Firework Sales ($USD) 2016-2020 (map).png" height="400">
-
+<br>
 <br>
 
-<img src="/reports/figures/Incident Counts by Age_Bar.png" height="400">
 
-<br>
 
-<img src="/reports/figures/Incident Counts by Body Part.png" height="500">
+## Summary of Results
+---
 
-<br>
+Age group of 0-20 showed the highest rate of injury.
 
-<img src="/reports/figures/Incident Counts by Age_Swarm.png" height="500">
-
-</details>
+<img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/reports/figures/Incident%20Counts%20by%20Age_Bar.png" width="700"/>
 
 <br>
 <br>
 
-#### __About the Data__
+Injuries to the hands, face, and eyes were the most common, while injuries to lower extremities were less common.
 
+<img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/reports/figures/Incident%20Counts%20by%20Body%20Part.png" height="300"/>
+
+<br>
+<br>
+
+Missouri held the record for most spent on fireworks (over 250 million dollars over the past 5 years).
+
+<img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/reports/figures/Total%20State%20Firework%20Sales%20(%24USD)%202016-2020%20(map).png" height="200"/>
+
+<br>
+<br>
+
+
+## About the Data
+---
 
 
 1. [Firework Injury Reports](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3d&UserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)
@@ -61,9 +81,10 @@
    Sales and Trade data each state regarding fireworks.  Reports data range from 2016 to April 2021.
 
 <br>
+<br>
 
-#### __Resources__
-
+## Resources
+---
 
 - [CPSC (Consumer Product Safety Commission)](https://www.cpsc.gov/cgibin/NEISSQuery/UserCriteria.aspx?UserAff=5x08cgz9T6YPDAZJzvlZjA%3d%3dUserAffOther=9OYR9kUytIsLilKZieD5xg%3d%3d)
 - [USA Trade Census](https://usatrade.census.gov/)
