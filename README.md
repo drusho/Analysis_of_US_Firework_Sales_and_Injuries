@@ -24,7 +24,7 @@ US Firework Sales and Injuries (Part 2) - Data Analysis
 
 [Tableau Dashboard for Fireworks Inuries (2016-2021)](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
 
-  [<img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/assets/tableau_dashboard_preview.png" height="100"/>](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
+  [<img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/assets/tableau_dashboard_preview.png" height="200"/>](https://public.tableau.com/app/profile/drusho/viz/USFireworkInjuries2016-2021/Dashboard1)
 
 
 <br>
