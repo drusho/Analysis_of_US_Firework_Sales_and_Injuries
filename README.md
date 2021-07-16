@@ -15,13 +15,13 @@
 ---
 US Firework Sales and Injuries (Part 1) - Cleaning
    - [Blog Post](https://drusho.github.io/pandas/data%20cleaning/2021/06/25/firework-part-1-cleaning.html)
-   - [Google Colab Notebook](https://drive.google.com/file/d/1HoHdYjWWict5lh3yNDFu8dXNp4NVKpI_/view?usp=sharing)
+   - [Google Colab Notebook](https://colab.research.google.com/drive/1UksUenbmj76pvJPd42b9zzzTkZtMkRy6?usp=sharing)
 
 <br>
 
 US Firework Sales and Injuries (Part 2) - Data Analysis
    - [Blog Post](https://drusho.github.io/pandas/plotly/seaborn/2021/07/03/firework-part-2-eda.html)
-   - [Google Colab Notebook](https://drive.google.com/file/d/1HoHdYjWWict5lh3yNDFu8dXNp4NVKpI_/view?usp=sharing)
+   - [Google Colab Notebook](https://colab.research.google.com/drive/1431Yswsv2G6jaLtXfBEG1eSoHDIpBB8h?usp=sharing)
 
 <br>
 
