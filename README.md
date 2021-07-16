@@ -1,4 +1,5 @@
-# __Data Exploration of US Firework Injury and Sales Reports (2015-2021)__
+# __US Firework Injury and Sales Reports (2015-2021)__
+##### Data Exploration Analysis
 
 <img src="https://raw.githubusercontent.com/drusho/EDA_US_Firework_Sales_and_Injuries/main/assets/pexels-ayla-fazioli-5130121_wide.png">
 
