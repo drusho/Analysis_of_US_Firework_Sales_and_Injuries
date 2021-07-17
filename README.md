@@ -31,14 +31,6 @@ US Firework Sales and Injuries (Part 2) - Data Analysis
 
 
 <br>
-
-Other Social Media Links:
-
-  [Twitter](https://twitter.com/drusho)  |  [Github](https://github.com/drusho)  |  [Linkedin](https://linkedin.com/in/davidrusho)  |  [Tableau](https://public.tableau.com/app/profile/drusho)
-
-<br>
-
-<br>
 <br>
 
 ## Project Goals
