@@ -1,3 +1,6 @@
+
+[<img src="https://img.shields.io/badge/Github_Blog-%23ffa64d.svg?&style=flat&logo=&logoColor=" />](https://drusho.github.io) [<img src="https://img.shields.io/badge/github-%23181717.svg?&style=flat&logo=github&logoColor=white" />](https://github.com/drusho)  [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?flat&logo=twitter&logoColor=white">](https://twitter.com/drusho)  [<img src="https://img.shields.io/badge/tableau-%23ff4d4d.svg?&style=flat&logo=tableau&logoColor=white">](https://public.tableau.com/app/profile/drusho) [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=flat=linkedin&logoColor=white" />](https://linkedin.com/in/davidrusho)
+
 # __US Firework Injury and Sales Reports (2015-2021)__
 ### Data Exploration Analysis
 
@@ -100,12 +103,3 @@ Missouri held the record for most spent on fireworks (over 250 million dollars o
 - [APA (American Pyrotechnics Assocation)](https://www.americanpyro.com/industry-facts-figures)
 - [Value Penguin: _Fourth of July: Who Uses the Most Fireworks in the US?_ - Sterling Price ](https://www.valuepenguin.com/who-uses-most-fireworks-united-states)
 </details>
-
-<br>
-<br> 
-
-## Social Links
-
-[<img src="https://img.shields.io/badge/Github_Blog-%23ffa64d.svg?&style=for-the-badge&logo=&logoColor=" />](https://drusho.github.io) [<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/drusho)  [<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/drusho)  [<img src="https://img.shields.io/badge/tableau-%23ff4d4d.svg?&style=for-the-badge&logo=tableau&logoColor=white">](https://public.tableau.com/app/profile/drusho) [<img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/davidrusho)
-
-
